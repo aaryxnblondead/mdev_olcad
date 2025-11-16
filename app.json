@@ -4,6 +4,11 @@
     "slug": "olcademy-food-ordering",
     "version": "1.0.0",
     "orientation": "portrait",
+    "backgroundColor": "#FF6B3C",
+    "splash": {
+      "backgroundColor": "#FF6B3C",
+      "resizeMode": "contain"
+    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -13,6 +18,10 @@
     "android": {
       "package": "com.olcademy.foodordering",
       "versionCode": 1,
+      "splash": {
+        "backgroundColor": "#FF6B3C",
+        "resizeMode": "contain"
+      },
       "adaptiveIcon": {
         "backgroundColor": "#FF6B3C"
       }
